@@ -1,0 +1,51 @@
+    1  ls -al
+    2  cd DS2022
+    3  cd my-work
+    4  ls -al
+    5  git add list-classmates.sh
+    6  git commit list-classmates.sh -m "new classwork, fetches all the names of the people in this class" 
+    7  git push origin 
+    8  git local 
+    9  git status
+   10  git push origin main
+   11  pwd
+   12  cd ..
+   13  ls- al
+   14  ls -al
+   15  cd ..
+   16  ls -al
+   17  pwd
+   18  git status
+   19  cd DS2022/
+   20  ls -al
+   21  cd my-work/
+   22  ls -al
+   23  cd ../../
+   24  ls -al
+   25  cat .git/config 
+   26  ls -al
+   27  git pull origin main
+   28  cd DS2022/my-work/
+   29  ls -al
+   30  mv list-classmates.sh ../../my-work/
+   31  ls -al
+   32  cd ..
+   33  git status
+   34  cd ..
+   35  ls- al
+   36  ls -al
+   37  git status
+   38  rm -Rf DS2022/
+   39  git status
+   40  git add .
+   41  git commit -m "Adding people list script"
+   42  git push origin main
+   43  git pul
+   44  git pull
+   45  git pull origin main
+   46  git status
+   47  git push origin dev
+   48  git checkout main
+   49  git merge dev
+   50  git push origin main
+   51  history > commands.txt
