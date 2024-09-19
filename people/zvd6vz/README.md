@@ -1,5 +1,5 @@
-# I'm Maya Uwaydat, and welcome to my corner of the Internet. 
-## Well...a corner where I'm not entirely anonymous. 
+# Maya Uwaydat
+## Welcome to my GitHub page. 
 
 - Hometown: Little Rock, Arkansas
 - Hobbies: Writing, making electronic music, drawing, some video games here and there, researching topics I like
